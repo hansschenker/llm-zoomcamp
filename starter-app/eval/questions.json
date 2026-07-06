@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How do I get Ollama set up on my computer and verify that it\u2019s working?",
+    "doc_id": "b226cf79218a06f00fa0020c3f96b5af"
+  },
+  {
+    "question": "How can I keep my API key loaded automatically for a project so I don\u2019t have to export it in every new terminal?",
+    "doc_id": "e1d25014952c9ae86a09d77a98e90035"
+  },
+  {
+    "question": "How can I find my own entry on the leaderboard if I don\u2019t recognize the name shown there?",
+    "doc_id": "6218b877f7b6f6f55223cecc61c0722f"
+  },
+  {
+    "question": "My model download gets stuck at 0% in download.py\u2014how can I get the ONNX file another way?",
+    "doc_id": "75ac3f30b150fe72727efcd803e67042"
+  },
+  {
+    "question": "Why am I getting a 401 unauthorized error when my notebook tries to call the Notion API, and how can I fix the secret access issue?",
+    "doc_id": "e2bf4afd48b7a5a8523cfcd1cd6dbc3c"
+  },
+  {
+    "question": "Where can I find the course videos or lecture links?",
+    "doc_id": "e38a6e06c3bc325ec85db64d0034f168"
+  },
+  {
+    "question": "Can I do the capstone with a partner, or does each student need to turn in their own separate project?",
+    "doc_id": "c90849781bbcd6c33ae347bb030ff13e"
+  },
+  {
+    "question": "How can I figure out the best weights for different fields in minsearch or a similar search tool?",
+    "doc_id": "29f626e92af2b54d6338565dc30be3ac"
+  },
+  {
+    "question": "What\u2019s a practical way to split up very long PDF documents for indexing so retrieval works better?",
+    "doc_id": "e0c144aef22ac543eb2202190d8f193b"
+  },
+  {
+    "question": "Why is my homework link failing with a 404/500, and what should I change so the grader can access my repo?",
+    "doc_id": "04cbc267dab658c41ae1e6b110627916"
+  },
+  {
+    "question": "What happens if I miss a homework deadline or need more time to turn it in?",
+    "doc_id": "ef95c9fed618736522ec246888a0e955"
+  },
+  {
+    "question": "Why does my Jupyter notebook keep crashing when I try to embed the ground-truth data, and how can I stop it?",
+    "doc_id": "3da42c0be9e5f91d99ad25efd98bb05c"
+  },
+  {
+    "question": "How can I make toyaikit work with Groq or Anthropic instead of OpenAI?",
+    "doc_id": "f1b5d88497b25802844c0f98df436edc"
+  },
+  {
+    "question": "How do I create a fresh dlt project for pulling data from a cloud source?",
+    "doc_id": "d5665154211d521566338d2239f8381e"
+  },
+  {
+    "question": "How can I keep my API keys in a .env file and access them in my Python code?",
+    "doc_id": "3ebb4f514cc145cfae89f9586792a85a"
+  },
+  {
+    "question": "Why am I getting an insufficient credits error when I use OpenAI\u2019s `responses.create` command?",
+    "doc_id": "92ef90152962b32b66aaaf260b975c9f"
+  },
+  {
+    "question": "How can I make pandas display the full text in a dataframe column instead of cutting it off?",
+    "doc_id": "8a6cdf6f94c28ed3c29e2b115e4e762e"
+  },
+  {
+    "question": "Are there any free AI models I can use for tool calling, and do I need to change my code if I switch away from OpenAI?",
+    "doc_id": "01d63c3828319198c77e7027bd71d336"
+  },
+  {
+    "question": "Why does the FAQ dataset show a different record count than what\u2019s shown in the course videos?",
+    "doc_id": "bcf2b4702a6124dd9444816a7d516b43"
+  },
+  {
+    "question": "How do embeddings turn text or other non-numeric information into numbers that still capture meaning?",
+    "doc_id": "a7ccc878f845ce7c8c97eaad8e904fe4"
+  },
+  {
+    "question": "Is it okay if I do the homework or capstone in a language other than Python, and what would I need to include if I do?",
+    "doc_id": "2be604900412e4dd4abd98a8190c2f57"
+  },
+  {
+    "question": "Should I build the RAG search index from the full documents or from the chunked versions in Module 1 homework?",
+    "doc_id": "34d9ab07707a7c4bd210cf8e1014c127"
+  },
+  {
+    "question": "Am I allowed to reuse the workshop materials in my own capstone or other projects?",
+    "doc_id": "5a7a44799e5f8f2d1f4cfd78418cd2df"
+  },
+  {
+    "question": "What\u2019s the best way to clean and organize documents before using them in a RAG system?",
+    "doc_id": "2c57ca4e0b9f67464df1df7de639651f"
+  },
+  {
+    "question": "In agentic RAG, what do tools or functions mean, and how are they different from the retrieval step in basic RAG?",
+    "doc_id": "3102cad5051330f178aa8d04ca45836e"
+  }
+]
